@@ -1,0 +1,15 @@
+.vscode
+.DS_Store
+.git
+
+#python
+__pycache__
+
+#pipenv
+Pipfile.lock
+
+#app
+.log
+.csv
+.txt
+
